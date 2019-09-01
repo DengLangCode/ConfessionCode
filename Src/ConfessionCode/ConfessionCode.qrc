@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/ConfessionCode.qrc</file>
+        <file>biu.gif</file>
+        <file>Resource/Heart.jpg</file>
+    </qresource>
+</RCC>
